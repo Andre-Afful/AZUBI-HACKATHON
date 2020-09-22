@@ -8,6 +8,7 @@
  The package below is required to run the notebook file.
  - pandas
  
+ 
  ## ANALYSIS
  the powerpoint (.pptx) file contains visualizations from the exploratory data analysis carried out with PowerBI.
  
